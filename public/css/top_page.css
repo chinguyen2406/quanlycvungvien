@@ -1,0 +1,55 @@
+.box-export-excel {
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: end;
+}
+
+#datatables_users {
+    border-spacing: 0;
+}
+#datatables_tickets {
+    border-spacing: 0;
+}
+.table-responsive-md {
+    padding-top: 10px; 
+    padding-bottom: 15px;
+}
+.action_box > a{
+    margin-right: 5px;
+}
+.action_box {
+    display: flex; 
+    justify-content: flex-start;
+}
+
+.page-item.disabled .page-link {
+    border-radius: 4px !important;
+    font-size: 14px !important;
+}
+.page-item.active .page-link {
+    border-radius: 4px !important;
+    font-size: 14px !important;
+}
+.page-link {
+    padding: .4rem .6rem;
+    font-size: 14px !important;
+}
+
+#datatables_tickets_filter{
+    margin-top: -40px !important;
+}
+.dt-button > span {
+    color: white;
+}
+div.dt-buttons {
+    float: right !important;
+}
+button.dt-button {
+    margin-right: 0 !important;
+    border-radius: 4px !important;
+}
+.box-back-sort {
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: space-between;
+}
